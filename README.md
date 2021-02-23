@@ -1,5 +1,8 @@
 # How we trained a custom traffic signs detection model with Tensorflow Object Detection API
 
+### Made with love by [@ChainYo](https://github.com/ChainYo), [@PaulSabia](https://github.com/PaulSabia) and [@PeregHer](https://github.com/PeregHer).
+<br>
+
 We used this article to understand [how to use TensorFlow API](https://gilberttanner.com/blog/tensorflow-object-detection-with-tensorflow-2-creating-a-custom-model).  
 
 This readme is inspired by the following github repo [README](https://github.com/TannerGilbert/Tensorflow-Object-Detection-API-Train-Model).
